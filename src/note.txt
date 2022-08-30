@@ -1,0 +1,14 @@
+git init
+git status
+git add .
+git commit -m "Commits"
+git log
+git diff filename.xxx
+git checkout filename.xxx
+
+git remote add http://githuburl
+git push origin main
+
+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
+
+Wzp#971117

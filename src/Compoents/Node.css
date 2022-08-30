@@ -1,0 +1,14 @@
+.node {
+    width: 25px;
+    height: 25px;
+    outline: 1px solid rgb(175, 216, 248);
+    display: inline-block;
+  }
+
+  .node-queen{
+    width:23px;
+    height:23px;
+    margin:1px;
+    background-image: url(./Image/chess-queen-svgrepo-com.svg);
+    background-size:100% 100%;
+  }

@@ -1,14 +1,44 @@
-.node {
+.node-original {
     width: 25px;
     height: 25px;
     outline: 1px solid rgb(175, 216, 248);
+    margin:1px;
     display: inline-block;
   }
 
   .node-queen{
-    width:23px;
+    /*width:23px;
     height:23px;
-    margin:1px;
-    background-image: url(./Image/chess-queen-svgrepo-com.svg);
+    margin:1px;*/
+    background-image: url(../Image/chess-queen-svgrepo-com.svg);
     background-size:100% 100%;
+  }
+
+  .node-over{
+    animation-name: wallAnimation;
+    animation-duration: 0.3s;
+    animation-timing-function: ease-out;
+    animation-delay: 0;
+    animation-direction: alternate;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+    /*background-color: rgb(147, 18, 63);*/
+  }
+
+  @keyframes wallAnimation {
+    0% {
+      transform: scale(.3);
+      background-color: rgb(227, 151, 178);
+    }
+  
+    50% {
+      transform: scale(1.2);
+      background-color: rgb(198, 82, 122);
+    }
+  
+    100% {
+      transform: scale(1.0);
+      background-color: rgb(182, 17, 75);
+    }
   }

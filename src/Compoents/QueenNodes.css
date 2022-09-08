@@ -1,0 +1,15 @@
+.row-queen{
+    display:flex;
+    justify-content:center;
+}
+
+/*.matrix{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}*/
+
+.matrix{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

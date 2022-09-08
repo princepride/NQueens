@@ -1,0 +1,5 @@
+.multiple-queens{
+    /*display: inline-flex;*/
+    display: flex;
+  flex-wrap: wrap;
+}

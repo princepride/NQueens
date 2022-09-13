@@ -14,3 +14,4 @@ after installing the application, you can run:
 
 ### `npm start`
 
+[a link](https://princepride.github.io/NQueens/)

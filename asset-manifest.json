@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0a7e671.css",
+    "main.js": "/static/js/main.9e2b297b.js",
+    "static/media/chess-queen-svgrepo-com.svg": "/static/media/chess-queen-svgrepo-com.e1893335b8b085ce93f5.svg",
+    "index.html": "/index.html",
+    "main.b0a7e671.css.map": "/static/css/main.b0a7e671.css.map",
+    "main.9e2b297b.js.map": "/static/js/main.9e2b297b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a7e671.css",
+    "static/js/main.9e2b297b.js"
+  ]
+}

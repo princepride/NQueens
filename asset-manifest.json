@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/n-queens/static/css/main.108b0016.css",
+    "main.js": "/n-queens/static/js/main.9e2b297b.js",
+    "static/media/chess-queen-svgrepo-com.svg": "/n-queens/static/media/chess-queen-svgrepo-com.e1893335b8b085ce93f5.svg",
+    "index.html": "/n-queens/index.html",
+    "main.108b0016.css.map": "/n-queens/static/css/main.108b0016.css.map",
+    "main.9e2b297b.js.map": "/n-queens/static/js/main.9e2b297b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.108b0016.css",
+    "static/js/main.9e2b297b.js"
+  ]
+}
